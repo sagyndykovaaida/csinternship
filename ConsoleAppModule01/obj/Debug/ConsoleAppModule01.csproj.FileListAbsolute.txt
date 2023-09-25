@@ -1,0 +1,7 @@
+D:\Projects\csinternship\csinternship\ConsoleAppModule01\bin\Debug\ConsoleAppModule01.exe.config
+D:\Projects\csinternship\csinternship\ConsoleAppModule01\bin\Debug\ConsoleAppModule01.exe
+D:\Projects\csinternship\csinternship\ConsoleAppModule01\bin\Debug\ConsoleAppModule01.pdb
+D:\Projects\csinternship\csinternship\ConsoleAppModule01\obj\Debug\ConsoleAppModule01.csproj.AssemblyReference.cache
+D:\Projects\csinternship\csinternship\ConsoleAppModule01\obj\Debug\ConsoleAppModule01.csproj.CoreCompileInputs.cache
+D:\Projects\csinternship\csinternship\ConsoleAppModule01\obj\Debug\ConsoleAppModule01.exe
+D:\Projects\csinternship\csinternship\ConsoleAppModule01\obj\Debug\ConsoleAppModule01.pdb

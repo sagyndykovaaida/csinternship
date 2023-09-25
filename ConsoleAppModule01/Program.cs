@@ -10,6 +10,9 @@ namespace ConsoleAppModule01
     {
         static void Main(string[] args)
         {
+            string fullName = Console.ReadLine();
+            Console.WriteLine("Приветствую тебя - " + fullName);
+            Console.ReadLine(); 
         }
     }
 }
