@@ -1,0 +1,7 @@
+D:\Projects\csinternship\csinternship\Module03Practice\bin\Debug\Module03Practice.exe.config
+D:\Projects\csinternship\csinternship\Module03Practice\bin\Debug\Module03Practice.exe
+D:\Projects\csinternship\csinternship\Module03Practice\bin\Debug\Module03Practice.pdb
+D:\Projects\csinternship\csinternship\Module03Practice\obj\Debug\Module03Practice.csproj.AssemblyReference.cache
+D:\Projects\csinternship\csinternship\Module03Practice\obj\Debug\Module03Practice.csproj.CoreCompileInputs.cache
+D:\Projects\csinternship\csinternship\Module03Practice\obj\Debug\Module03Practice.exe
+D:\Projects\csinternship\csinternship\Module03Practice\obj\Debug\Module03Practice.pdb
