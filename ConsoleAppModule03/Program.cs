@@ -10,16 +10,16 @@ namespace ConsoleAppModule03
     {
         static void Main(string[] args)
         {
-            string input = "123 45 678 94 324 7893 12";
+            string input = "123 45 674 92 324 7893 12";
             string[] words = input.Split(' ');
 
             int sum = 0;
 
-            foreach (string word in words)
+            foreach (string i in words)
             {
-                if (word.EndsWith("3") || word.EndsWith("4"))
+                if (i.EndsWith("3") || i.EndsWith("4"))
                 {
-                    if (int.TryParse(word, out int number))
+                    if (int.TryParse(i, out int number))
                     {
                         sum += number;
                     }
