@@ -9,6 +9,7 @@ namespace Satbayev.DAL
     public class Client
     {
         public int Id { get; set; }
+        public string Iin { get; set; }
         public DateTime Bday { get; set; }
         public int GetAge()
         {

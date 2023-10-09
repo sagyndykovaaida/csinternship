@@ -16,13 +16,21 @@ namespace Satbayev.DAL
         }
         public bool CreateClient(Client client)
         {
-            using (var db = new LiteDatabase(Path))
+            try
             {
-                var clients = db.GetCollection<Client>("Client");
-                clients.Insert(client);
+                using (var db = new LiteDatabase(Path))
+                {
+                    var clients = db.GetCollection<Client>("Client");
+                    clients.Insert(client);
 
+
+                }
+            }
+            catch (Exception) { 
 
             }
+
+            
             return true;
         }
         public Client GetClient(string email, string password)
