@@ -1,0 +1,6 @@
+D:\Projects\csinternship\csinternship\module6\Bankomat\bin\Debug\Bankomat.dll
+D:\Projects\csinternship\csinternship\module6\Bankomat\bin\Debug\Bankomat.pdb
+D:\Projects\csinternship\csinternship\module6\Bankomat\obj\Debug\Bankomat.csproj.AssemblyReference.cache
+D:\Projects\csinternship\csinternship\module6\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+D:\Projects\csinternship\csinternship\module6\Bankomat\obj\Debug\Bankomat.dll
+D:\Projects\csinternship\csinternship\module6\Bankomat\obj\Debug\Bankomat.pdb

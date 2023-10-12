@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppModule06
 {
-    internal class Program
+    internal class constants
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Person person = new Person("User", "User", 30, 1);
-            string personInfo = PersonUtility.GetPersonInfo(person);
-            Console.WriteLine(personInfo);
+
+            Console.WriteLine(Constants.name);
+            Console.WriteLine(Constants.id);
             Console.ReadKey();
         }
     }

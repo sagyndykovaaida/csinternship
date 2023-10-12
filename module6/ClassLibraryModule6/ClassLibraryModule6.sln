@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryModule6", "ClassLibraryModule6.csproj", "{0E9C6839-7F6D-4748-8D25-3CE0BA893E53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankomat", "..\Bankomat\Bankomat.csproj", "{43E3BCB5-B57E-4E3C-9A4B-16F1BC07B4AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppModule06", "..\ConsoleAppModule06\ConsoleAppModule06.csproj", "{72F3A620-4F3A-4C56-A558-788EF8CA9AA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0E9C6839-7F6D-4748-8D25-3CE0BA893E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E9C6839-7F6D-4748-8D25-3CE0BA893E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E9C6839-7F6D-4748-8D25-3CE0BA893E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E3BCB5-B57E-4E3C-9A4B-16F1BC07B4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E3BCB5-B57E-4E3C-9A4B-16F1BC07B4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E3BCB5-B57E-4E3C-9A4B-16F1BC07B4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E3BCB5-B57E-4E3C-9A4B-16F1BC07B4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F3A620-4F3A-4C56-A558-788EF8CA9AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F3A620-4F3A-4C56-A558-788EF8CA9AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F3A620-4F3A-4C56-A558-788EF8CA9AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F3A620-4F3A-4C56-A558-788EF8CA9AA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
