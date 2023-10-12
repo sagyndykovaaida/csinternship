@@ -1,0 +1,12 @@
+D:\Projects\csinternship\csinternship\ConsoleAppModule06\bin\Debug\ConsoleAppModule06.exe.config
+D:\Projects\csinternship\csinternship\ConsoleAppModule06\bin\Debug\ConsoleAppModule06.exe
+D:\Projects\csinternship\csinternship\ConsoleAppModule06\bin\Debug\ConsoleAppModule06.pdb
+D:\Projects\csinternship\csinternship\ConsoleAppModule06\bin\Debug\Module06.dll
+D:\Projects\csinternship\csinternship\ConsoleAppModule06\bin\Debug\Module06.pdb
+D:\Projects\csinternship\csinternship\ConsoleAppModule06\obj\Debug\ConsoleAppModule06.csproj.AssemblyReference.cache
+D:\Projects\csinternship\csinternship\ConsoleAppModule06\obj\Debug\ConsoleAppModule06.csproj.CoreCompileInputs.cache
+D:\Projects\csinternship\csinternship\ConsoleAppModule06\obj\Debug\ConsoleAppModule06.csproj.CopyComplete
+D:\Projects\csinternship\csinternship\ConsoleAppModule06\obj\Debug\ConsoleAppModule06.exe
+D:\Projects\csinternship\csinternship\ConsoleAppModule06\obj\Debug\ConsoleAppModule06.pdb
+D:\Projects\csinternship\csinternship\ConsoleAppModule06\bin\Debug\Bankomat.dll
+D:\Projects\csinternship\csinternship\ConsoleAppModule06\bin\Debug\Bankomat.pdb
