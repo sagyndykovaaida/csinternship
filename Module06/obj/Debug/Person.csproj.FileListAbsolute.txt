@@ -1,6 +1,0 @@
-D:\Projects\csinternship\csinternship\Module06\bin\Debug\Module06.dll
-D:\Projects\csinternship\csinternship\Module06\bin\Debug\Module06.pdb
-D:\Projects\csinternship\csinternship\Module06\obj\Debug\Person.csproj.AssemblyReference.cache
-D:\Projects\csinternship\csinternship\Module06\obj\Debug\Person.csproj.CoreCompileInputs.cache
-D:\Projects\csinternship\csinternship\Module06\obj\Debug\Module06.dll
-D:\Projects\csinternship\csinternship\Module06\obj\Debug\Module06.pdb

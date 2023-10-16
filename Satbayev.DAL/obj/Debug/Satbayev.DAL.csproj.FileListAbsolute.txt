@@ -1,9 +1,0 @@
-D:\Projects\csinternship\csinternship\Satbayev.DAL\bin\Debug\Satbayev.DAL.dll
-D:\Projects\csinternship\csinternship\Satbayev.DAL\bin\Debug\Satbayev.DAL.pdb
-D:\Projects\csinternship\csinternship\Satbayev.DAL\bin\Debug\LiteDB.dll
-D:\Projects\csinternship\csinternship\Satbayev.DAL\bin\Debug\LiteDB.xml
-D:\Projects\csinternship\csinternship\Satbayev.DAL\obj\Debug\Satbayev.DAL.csproj.AssemblyReference.cache
-D:\Projects\csinternship\csinternship\Satbayev.DAL\obj\Debug\Satbayev.DAL.csproj.CoreCompileInputs.cache
-D:\Projects\csinternship\csinternship\Satbayev.DAL\obj\Debug\Satbayev.DAL.csproj.CopyComplete
-D:\Projects\csinternship\csinternship\Satbayev.DAL\obj\Debug\Satbayev.DAL.dll
-D:\Projects\csinternship\csinternship\Satbayev.DAL\obj\Debug\Satbayev.DAL.pdb
