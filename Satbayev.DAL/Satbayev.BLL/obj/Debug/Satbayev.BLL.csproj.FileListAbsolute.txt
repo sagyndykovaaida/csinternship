@@ -1,0 +1,11 @@
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.BLL\bin\Debug\Satbayev.BLL.dll
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.BLL\bin\Debug\Satbayev.BLL.pdb
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.BLL\bin\Debug\Satbayev.DAL.dll
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.BLL\bin\Debug\LiteDB.dll
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.BLL\bin\Debug\Satbayev.DAL.pdb
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.BLL\bin\Debug\LiteDB.xml
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.BLL\obj\Debug\Satbayev.BLL.csproj.AssemblyReference.cache
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.BLL\obj\Debug\Satbayev.BLL.csproj.CoreCompileInputs.cache
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.BLL\obj\Debug\Satbayev.BLL.csproj.CopyComplete
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.BLL\obj\Debug\Satbayev.BLL.dll
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.BLL\obj\Debug\Satbayev.BLL.pdb

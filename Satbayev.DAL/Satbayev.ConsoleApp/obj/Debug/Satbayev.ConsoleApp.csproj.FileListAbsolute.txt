@@ -1,0 +1,14 @@
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.ConsoleApp\bin\Debug\Satbayev.ConsoleApp.exe.config
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.ConsoleApp\bin\Debug\Satbayev.ConsoleApp.exe
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.ConsoleApp\bin\Debug\Satbayev.ConsoleApp.pdb
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.ConsoleApp\bin\Debug\Satbayev.BLL.dll
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.ConsoleApp\bin\Debug\Satbayev.DAL.dll
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.ConsoleApp\bin\Debug\LiteDB.dll
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.ConsoleApp\bin\Debug\Satbayev.BLL.pdb
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.ConsoleApp\bin\Debug\Satbayev.DAL.pdb
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.ConsoleApp\bin\Debug\LiteDB.xml
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.csproj.AssemblyReference.cache
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.csproj.CopyComplete
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.exe
+D:\Projects\csinternship\csinternship\Satbayev.Dal\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.pdb
