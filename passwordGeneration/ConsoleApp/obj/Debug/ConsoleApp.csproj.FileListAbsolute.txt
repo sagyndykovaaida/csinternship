@@ -1,0 +1,10 @@
+D:\Projects\csinternship\csinternship\passwordGeneration\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Projects\csinternship\csinternship\passwordGeneration\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Projects\csinternship\csinternship\passwordGeneration\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Projects\csinternship\csinternship\passwordGeneration\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\Projects\csinternship\csinternship\passwordGeneration\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\csinternship\csinternship\passwordGeneration\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Projects\csinternship\csinternship\passwordGeneration\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\Projects\csinternship\csinternship\passwordGeneration\ConsoleApp\bin\Debug\ClassLibrary.dll
+D:\Projects\csinternship\csinternship\passwordGeneration\ConsoleApp\bin\Debug\ClassLibrary.pdb
+D:\Projects\csinternship\csinternship\passwordGeneration\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete

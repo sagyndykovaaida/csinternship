@@ -1,0 +1,6 @@
+D:\Projects\csinternship\csinternship\passwordGeneration\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Projects\csinternship\csinternship\passwordGeneration\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Projects\csinternship\csinternship\passwordGeneration\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+D:\Projects\csinternship\csinternship\passwordGeneration\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\csinternship\csinternship\passwordGeneration\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Projects\csinternship\csinternship\passwordGeneration\ClassLibrary\obj\Debug\ClassLibrary.pdb
