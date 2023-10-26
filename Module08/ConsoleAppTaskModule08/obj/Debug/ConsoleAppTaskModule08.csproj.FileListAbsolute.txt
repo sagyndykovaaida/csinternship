@@ -1,0 +1,7 @@
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module08\ConsoleAppTaskModule08\bin\Debug\ConsoleAppTaskModule08.exe.config
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module08\ConsoleAppTaskModule08\bin\Debug\ConsoleAppTaskModule08.exe
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module08\ConsoleAppTaskModule08\bin\Debug\ConsoleAppTaskModule08.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module08\ConsoleAppTaskModule08\obj\Debug\ConsoleAppTaskModule08.csproj.AssemblyReference.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module08\ConsoleAppTaskModule08\obj\Debug\ConsoleAppTaskModule08.csproj.CoreCompileInputs.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module08\ConsoleAppTaskModule08\obj\Debug\ConsoleAppTaskModule08.exe
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module08\ConsoleAppTaskModule08\obj\Debug\ConsoleAppTaskModule08.pdb
