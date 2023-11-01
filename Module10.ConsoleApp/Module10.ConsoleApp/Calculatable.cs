@@ -41,17 +41,21 @@ namespace Module10.ConsoleApp
         }
     }
 
-    static void Main()
+    internal class Calculatable
     {
-        ICalculatable calculatable = new Calculator();
-        double result1 = calculatable.Add(2, 5);
-        double result2 = calculatable.Subtract(20, 5);
-        double result3 = calculatable.Multiply(2, 5);
-        double result4 = calculatable.Divide(10, 2);
-        Console.WriteLine(result1);
-        Console.WriteLine(result2);
-        Console.WriteLine(result3);
-        Console.WriteLine(result4);
-        Console.ReadKey();
+        static void Main()
+        {
+            ICalculatable calculatable = new Calculator();
+            double result1 = calculatable.Add(2, 5);
+            double result2 = calculatable.Subtract(20, 5);
+            double result3 = calculatable.Multiply(2, 5);
+            double result4 = calculatable.Divide(10, 2);
+            Console.WriteLine(result1);
+            Console.WriteLine(result2);
+            Console.WriteLine(result3);
+            Console.WriteLine(result4);
+            Console.ReadKey();
+        }
     }
+    
 }

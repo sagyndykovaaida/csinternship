@@ -5,3 +5,6 @@ C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module
 C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module10.ConsoleApp\Module10.ConsoleApp\obj\Debug\Module10.ConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module10.ConsoleApp\Module10.ConsoleApp\obj\Debug\Module10.ConsoleApp.exe
 C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module10.ConsoleApp\Module10.ConsoleApp\obj\Debug\Module10.ConsoleApp.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module10.ConsoleApp\Module10.ConsoleApp\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module10.ConsoleApp\Module10.ConsoleApp\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module10.ConsoleApp\Module10.ConsoleApp\obj\Debug\Module10.ConsoleApp.csproj.CopyComplete

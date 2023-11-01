@@ -11,10 +11,11 @@ namespace Module10.ConsoleApp
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public Person(string firstName , string lastName) {
+        public Person(string firstName, string lastName)
+        {
             FirstName = firstName;
             LastName = lastName;
-        
+
         }
         public virtual void Print()
         {
@@ -40,21 +41,23 @@ namespace Module10.ConsoleApp
     }
     public class Student : Person
     {
-        public List<Teacher> Teachers { get;} = new List<Teacher>();
+        public List<Teacher> Teachers { get; } = new List<Teacher>();
 
-        public Student(string firstName, string lastName) : base(firstName , lastName)
+        public Student(string firstName, string lastName) : base(firstName, lastName)
         {
-            
+
         }
 
         public void addTeacher(Teacher teacher)
         {
             Teachers.Add(teacher);
         }
-        public override void Print() {
+        public override void Print()
+        {
             Console.WriteLine($"Student name:{FirstName} {LastName}");
             Console.WriteLine("Teachers : ");
-            for(int i = 0; i< Teachers.Count;i++) {
+            for (int i = 0; i < Teachers.Count; i++)
+            {
                 Console.WriteLine(Teachers[i]);
 
             }
@@ -63,7 +66,7 @@ namespace Module10.ConsoleApp
 
     public class Teacher : Person
     {
-        public List <Student> students = new List<Student>();
+        public List<Student> students = new List<Student>();
 
         public Teacher(string firstName, string lastName) : base(firstName, lastName)
         {
