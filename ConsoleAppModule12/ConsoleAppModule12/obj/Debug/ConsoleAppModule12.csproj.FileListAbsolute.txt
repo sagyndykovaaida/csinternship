@@ -1,0 +1,9 @@
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\ConsoleAppModule12\ConsoleAppModule12\bin\Debug\ConsoleAppModule12.exe.config
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\ConsoleAppModule12\ConsoleAppModule12\bin\Debug\ConsoleAppModule12.exe
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\ConsoleAppModule12\ConsoleAppModule12\bin\Debug\ConsoleAppModule12.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\ConsoleAppModule12\ConsoleAppModule12\obj\Debug\ConsoleAppModule12.csproj.AssemblyReference.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\ConsoleAppModule12\ConsoleAppModule12\obj\Debug\ConsoleAppModule12.csproj.CoreCompileInputs.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\ConsoleAppModule12\ConsoleAppModule12\obj\Debug\ConsoleAppModule12.exe
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\ConsoleAppModule12\ConsoleAppModule12\obj\Debug\ConsoleAppModule12.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\ConsoleAppModule12\ConsoleAppModule12\bin\Debug\CartConversion.dll
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\ConsoleAppModule12\ConsoleAppModule12\obj\Debug\ConsoleAppModule12.csproj.CopyComplete
