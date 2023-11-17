@@ -5,3 +5,6 @@ C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module
 C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module11.ConsoleApp\Module11.ConsoleApp\obj\Debug\Module11.ConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module11.ConsoleApp\Module11.ConsoleApp\obj\Debug\Module11.ConsoleApp.exe
 C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module11.ConsoleApp\Module11.ConsoleApp\obj\Debug\Module11.ConsoleApp.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module11.ConsoleApp\Module11.ConsoleApp\bin\Debug\LiteDB.dll
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module11.ConsoleApp\Module11.ConsoleApp\bin\Debug\LiteDB.xml
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module11.ConsoleApp\Module11.ConsoleApp\obj\Debug\Module11.ConsoleApp.csproj.CopyComplete

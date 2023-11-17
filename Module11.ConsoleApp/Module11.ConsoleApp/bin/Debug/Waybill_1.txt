@@ -1,0 +1,5 @@
+Waybill ID: 1
+Creation Date: 17.11.2023 13:36:03
+Sender: Aida
+Receiver: Aselya
+Status: Created
