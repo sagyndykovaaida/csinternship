@@ -1,0 +1,7 @@
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module13.ConsoleApp\Module13.ConsoleApp\bin\Debug\Module13.ConsoleApp.exe.config
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module13.ConsoleApp\Module13.ConsoleApp\bin\Debug\Module13.ConsoleApp.exe
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module13.ConsoleApp\Module13.ConsoleApp\bin\Debug\Module13.ConsoleApp.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module13.ConsoleApp\Module13.ConsoleApp\obj\Debug\Module13.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module13.ConsoleApp\Module13.ConsoleApp\obj\Debug\Module13.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module13.ConsoleApp\Module13.ConsoleApp\obj\Debug\Module13.ConsoleApp.exe
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module13.ConsoleApp\Module13.ConsoleApp\obj\Debug\Module13.ConsoleApp.pdb
