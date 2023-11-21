@@ -17,11 +17,11 @@ namespace Module09.ConsoleApp
             double result = employee.CalculateAnnualSalary();
             Console.WriteLine("Annual Salary = " + result);
 
-            
+
             Manager manager = new Manager("Manager", 25, 200000, 50000);
             Console.WriteLine("инфо о manager:");
-            manager.GetInfo();  
-            double salaryWithBonus =  manager.CalculateAnnualSalary();
+            manager.GetInfo();
+            double salaryWithBonus = manager.CalculateAnnualSalary();
             Console.WriteLine("годовой оклад включая премию = " + salaryWithBonus);
 
 
@@ -30,7 +30,7 @@ namespace Module09.ConsoleApp
             developer.GetInfo();
             double developerSalary = developer.CalculateAnnualSalary();
             Console.WriteLine("Salary = " + developerSalary);
-            Console.ReadKey();  
+            Console.ReadKey();
         }
     }
 }
