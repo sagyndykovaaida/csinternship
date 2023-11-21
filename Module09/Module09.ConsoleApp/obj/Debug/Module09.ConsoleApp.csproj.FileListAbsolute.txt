@@ -1,0 +1,10 @@
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09.ConsoleApp\bin\Debug\Module09.ConsoleApp.exe.config
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09.ConsoleApp\bin\Debug\Module09.ConsoleApp.exe
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09.ConsoleApp\bin\Debug\Module09.ConsoleApp.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09.ConsoleApp\bin\Debug\Module09.dll
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09.ConsoleApp\bin\Debug\Module09.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09.ConsoleApp\obj\Debug\Module09.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09.ConsoleApp\obj\Debug\Module09.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09.ConsoleApp\obj\Debug\Module09.ConsoleApp.csproj.CopyComplete
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09.ConsoleApp\obj\Debug\Module09.ConsoleApp.exe
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09.ConsoleApp\obj\Debug\Module09.ConsoleApp.pdb

@@ -1,0 +1,6 @@
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09\bin\Debug\Module09.dll
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09\bin\Debug\Module09.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09\obj\Debug\Module09.csproj.AssemblyReference.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09\obj\Debug\Module09.csproj.CoreCompileInputs.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09\obj\Debug\Module09.dll
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module09\Module09\obj\Debug\Module09.pdb
