@@ -10,6 +10,7 @@ namespace Satbayev.DAL
     {
         public int Id { get; set; }
         public DateTime CreateDate { get; set; }
+        public Client Client { get; set; }  
         public int ClientId { get; set; }
         public string IBAN { get; set; }
         public DateTime ExpariDate { get; set; }

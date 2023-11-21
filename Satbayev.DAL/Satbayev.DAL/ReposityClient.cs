@@ -7,8 +7,15 @@ using System.Threading.Tasks;
 
 namespace Satbayev.DAL
 {
+    public delegate void ErrorDelegate(Exception exception);
     public class ReposityClient
     {
+        private ErrorDelegate errorDelegate;
+
+        public void RegisterDelegate(ErrorDelegate errorDelegate)
+        {
+            this.errorDelegate = errorDelegate;
+        }
         private string Path;
         public ReposityClient(string Path)
         {
@@ -24,13 +31,18 @@ namespace Satbayev.DAL
                     clients.Insert(client);
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                if(errorDelegate != null)
+                {
+                    errorDelegate(ex);
+                }
 
             }
 
             return true;
         }
+
 
         public Client GetClient(string email, string password)
         {
@@ -38,16 +50,22 @@ namespace Satbayev.DAL
             {
                 using (var db = new LiteDatabase(Path))
                 {
-                    return db.GetCollection<Client>("Client").FindAll()
-                         .First(f => f.Email == email & f.Password == password);
+                    return db.GetCollection<Client>("Client")
+                        .FindAll()
+                         .First(f => f.Email == email &&
+                         f.Password == password);
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-
+                if (errorDelegate != null)
+                {
+                    errorDelegate(ex);
+                }
             }
             return null;
         }
+
         public Client GetClient(int Id)
         {
             try
@@ -55,14 +73,14 @@ namespace Satbayev.DAL
                 using (var db = new LiteDatabase(Path))
                 {
                     return db.GetCollection<Client>
-                    ("Client").FindAll()
-                        .First(f => f.Id == Id);
+                    ("Client")
+                    .FindAll()
+                    .First(f => f.Id == Id);
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-
-
+                errorDelegate(ex);
             }
             return null;
 

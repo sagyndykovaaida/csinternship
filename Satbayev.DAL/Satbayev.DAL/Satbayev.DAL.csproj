@@ -47,7 +47,10 @@
     <Compile Include="Account.cs" />
     <Compile Include="Adress.cs" />
     <Compile Include="Client.cs" />
+    <Compile Include="IRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository.cs" />
+    <Compile Include="RepositoryAccount.cs" />
     <Compile Include="ReposityClient.cs" />
   </ItemGroup>
   <ItemGroup>
