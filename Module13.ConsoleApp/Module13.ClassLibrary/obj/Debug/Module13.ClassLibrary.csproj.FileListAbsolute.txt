@@ -1,0 +1,6 @@
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module13.ConsoleApp\Module13.ClassLibrary\bin\Debug\Module13.ClassLibrary.dll
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module13.ConsoleApp\Module13.ClassLibrary\bin\Debug\Module13.ClassLibrary.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module13.ConsoleApp\Module13.ClassLibrary\obj\Debug\Module13.ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module13.ConsoleApp\Module13.ClassLibrary\obj\Debug\Module13.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module13.ConsoleApp\Module13.ClassLibrary\obj\Debug\Module13.ClassLibrary.dll
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module13.ConsoleApp\Module13.ClassLibrary\obj\Debug\Module13.ClassLibrary.pdb
