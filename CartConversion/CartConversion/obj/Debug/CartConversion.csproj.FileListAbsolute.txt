@@ -1,0 +1,6 @@
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\CartConversion\CartConversion\bin\Debug\CartConversion.dll
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\CartConversion\CartConversion\bin\Debug\CartConversion.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\CartConversion\CartConversion\obj\Debug\CartConversion.csproj.AssemblyReference.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\CartConversion\CartConversion\obj\Debug\CartConversion.csproj.CoreCompileInputs.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\CartConversion\CartConversion\obj\Debug\CartConversion.dll
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\CartConversion\CartConversion\obj\Debug\CartConversion.pdb
