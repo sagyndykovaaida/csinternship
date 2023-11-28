@@ -24,7 +24,39 @@ namespace Module14.ConsoleApp
 
             Game game = new Game(numberOfPlayers);
             game.Play();
+
+            string textFromGame = "Текст из игры:";
+            Dictionary<string, int> wordStatistics = GetWordStatistics(textFromGame);
+            DisplayStatisticsTable(wordStatistics);
+
             Console.ReadKey();
+        }
+
+        static Dictionary<string, int> GetWordStatistics(string text)
+        {
+            string[] words = text.Split(new[] { ' ', '.', ',', '!', '?', '\n', '\r', '\t' },
+                StringSplitOptions.RemoveEmptyEntries);
+
+            Dictionary<string, int> wordCount = words
+                .GroupBy(word => word, StringComparer.OrdinalIgnoreCase)
+                .ToDictionary(group => group.Key, group => group.Count());
+
+            return wordCount;
+        }
+
+        static void DisplayStatisticsTable(Dictionary<string, int> wordStatistics)
+        {
+            Console.WriteLine("Статистика слов в тексте:");
+            Console.WriteLine("-------------------------");
+            Console.WriteLine("| Слово      | Количество |");
+            Console.WriteLine("-------------------------");
+
+            foreach (var pair in wordStatistics)
+            {
+                Console.WriteLine($"| {pair.Key,-10} | {pair.Value,-11} |");
+            }
+
+            Console.WriteLine("-------------------------");
         }
     }
 }
