@@ -1,0 +1,10 @@
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module14.ConsoleApp\Module14.ConsoleApp\bin\Debug\Module14.ConsoleApp.exe.config
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module14.ConsoleApp\Module14.ConsoleApp\bin\Debug\Module14.ConsoleApp.exe
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module14.ConsoleApp\Module14.ConsoleApp\bin\Debug\Module14.ConsoleApp.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module14.ConsoleApp\Module14.ConsoleApp\bin\Debug\ClassLibrary.Module14.dll
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module14.ConsoleApp\Module14.ConsoleApp\bin\Debug\ClassLibrary.Module14.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module14.ConsoleApp\Module14.ConsoleApp\obj\Debug\Module14.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module14.ConsoleApp\Module14.ConsoleApp\obj\Debug\Module14.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module14.ConsoleApp\Module14.ConsoleApp\obj\Debug\Module14.ConsoleApp.csproj.CopyComplete
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module14.ConsoleApp\Module14.ConsoleApp\obj\Debug\Module14.ConsoleApp.exe
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\Module14.ConsoleApp\Module14.ConsoleApp\obj\Debug\Module14.ConsoleApp.pdb
