@@ -1,19 +1,21 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ClassLibrary
 {
     public class PasswordManager
     {
+        private readonly IUserSettingsProvider userSettingsProvider;
 
-        UserSettings userSettings = new UserSettings();
-
+        public PasswordManager(IUserSettingsProvider userSettingsProvider)
+        {
+            this.userSettingsProvider = userSettingsProvider ?? throw new ArgumentNullException(nameof(userSettingsProvider));
+        }
+         
         public void GetPassword()
         {
             int passwordLength = PromptForPasswordLength();
+           
+            UserSettings userSettings = userSettingsProvider.GetUserSettings();
             userSettings.Category();
             string password = userSettings.GeneratePassword(passwordLength);
 
@@ -22,8 +24,8 @@ namespace ClassLibrary
                 Console.WriteLine($"Ваш пароль: {password}");
             }
         }
-
-        private int PromptForPasswordLength()
+         
+        private int PromptForPasswordLength()  // чтобы выбрать длину пароля  
         {
             while (true)
             {
@@ -38,8 +40,7 @@ namespace ClassLibrary
             }
         }
 
-
-        public void DisplayTips()
+        public void DisplayTips() // советы по безопасности
         {
             Console.WriteLine("----------------------------------------------");
             Console.WriteLine("Советы по безопасному использованию и хранению паролей:");
@@ -51,6 +52,10 @@ namespace ClassLibrary
             Console.WriteLine("6. Остерегайтесь фишинговых атак и не раскрывайте пароли по электронной почте или телефону.");
             Console.WriteLine("7. Следите за безопасностью вашего компьютера и устройств, где хранятся пароли.");
         }
+    }
 
+    public interface IUserSettingsProvider
+    {
+        UserSettings GetUserSettings();
     }
 }

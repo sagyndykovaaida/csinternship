@@ -2,51 +2,32 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace ClassLibrary
-
 {
     public class UserSettings
     {
-        public bool Uppercase { get; set; }
-        public bool Lowercase { get; set; }
-        public bool Digits { get; set; }
-        public bool SpecialSymbols { get; set; }
-        public string ExcludedCharacters { get; set; }
+        private readonly Random random = new Random();
 
-        public UserSettings()
-        {
-            Uppercase = true;
-            Lowercase = true;
-            Digits = true;
-            SpecialSymbols = true;
-            ExcludedCharacters = "Il10Oo";
-        }
+        private readonly PasswordGenerator passwordGenerator = new PasswordGenerator();
 
+        public bool Uppercase { get; set; } = true;
+        public bool Lowercase { get; set; } = true;
+        public bool Digits { get; set; } = true;
+        public bool SpecialSymbols { get; set; } = true;
+        public string ExcludedCharacters { get; set; } = "Il10Oo";
 
         public string GeneratePassword(int length)
         {
-            StringBuilder password = new StringBuilder();
-            Random random = new Random();
-            PasswordGenerator passwordGenerator = new PasswordGenerator();
- 
-            string allowedChars = string.Empty;
+            string allowedChars = GetAllowedChars();
 
-            if (Uppercase)
-                allowedChars += ExcludeSymbols(passwordGenerator.UppercaseChars);
-            if (Lowercase)
-                allowedChars += ExcludeSymbols(passwordGenerator.LowercaseChars);
-            if (Digits)
-                allowedChars += ExcludeSymbols(passwordGenerator.NumChars);
-            if (SpecialSymbols)
-                allowedChars += passwordGenerator.SpecialSymbols;
-
-            if (allowedChars.Length == 0)
+            if (string.IsNullOrEmpty(allowedChars))
             {
-                Console.WriteLine("Ошибка: Ни одна категория символов не выбрана.");
+                Console.WriteLine("Error");
                 return string.Empty;
             }
+
+            StringBuilder password = new StringBuilder(); // предоставляет изменяемую последовательность символов
 
             for (int i = 0; i < length; i++)
             {
@@ -56,6 +37,20 @@ namespace ClassLibrary
 
             return password.ToString();
         }
+
+        private string GetAllowedChars()
+        {
+            List<Func<string>> characterSets = new List<Func<string>>
+            {
+                () => Uppercase ? ExcludeSymbols(passwordGenerator.UppercaseChars) : "",
+                () => Lowercase ? ExcludeSymbols(passwordGenerator.LowercaseChars) : "",
+                () => Digits ? ExcludeSymbols(passwordGenerator.NumChars) : "",
+                () => SpecialSymbols ? passwordGenerator.SpecialSymbols : ""
+            };
+
+            return string.Concat(characterSets.Select(set => set()));
+        }
+
         public string ExcludeSymbols(string input)
         {
             foreach (char c in ExcludedCharacters)
@@ -65,8 +60,7 @@ namespace ClassLibrary
             return input;
         }
 
-
-        static bool GetUserChoice(string prompt)
+        private bool GetUserChoice(string prompt)
         {
             Console.Write(prompt);
             string input = Console.ReadLine();
@@ -80,9 +74,5 @@ namespace ClassLibrary
             Digits = GetUserChoice("Включить цифры (1 - да, 0 - нет): ");
             SpecialSymbols = GetUserChoice("Включить специальные символы (1 - да, 0 - нет): ");
         }
-       
-
-
-
     }
 }

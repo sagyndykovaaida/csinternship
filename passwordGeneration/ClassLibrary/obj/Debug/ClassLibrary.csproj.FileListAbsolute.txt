@@ -4,3 +4,9 @@ D:\Projects\csinternship\csinternship\passwordGeneration\ClassLibrary\obj\Debug\
 D:\Projects\csinternship\csinternship\passwordGeneration\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
 D:\Projects\csinternship\csinternship\passwordGeneration\ClassLibrary\obj\Debug\ClassLibrary.dll
 D:\Projects\csinternship\csinternship\passwordGeneration\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ClassLibrary\bin\Debug\ClassLibrary.pdb
