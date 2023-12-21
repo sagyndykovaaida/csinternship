@@ -8,3 +8,13 @@ D:\Projects\csinternship\csinternship\passwordGeneration\ConsoleApp\obj\Debug\Co
 D:\Projects\csinternship\csinternship\passwordGeneration\ConsoleApp\bin\Debug\ClassLibrary.dll
 D:\Projects\csinternship\csinternship\passwordGeneration\ConsoleApp\bin\Debug\ClassLibrary.pdb
 D:\Projects\csinternship\csinternship\passwordGeneration\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ConsoleApp\bin\Debug\ClassLibrary.dll
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ConsoleApp\bin\Debug\ClassLibrary.pdb
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Aliev\OneDrive\Рабочий стол\csinternship\csinternship\passwordGeneration\ConsoleApp\obj\Debug\ConsoleApp.pdb
